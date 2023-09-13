@@ -288,7 +288,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 		* [ ] [MemQ: Cloud Native Pub-Sub System at Pinterest](https://medium.com/pinterest-engineering/memq-an-efficient-scalable-cloud-native-pubsub-system-4402695dd4e7)
 		* [ ] [Pub-Sub in Microservices at Netflix](https://medium.com/netflix-techblog/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
 	* [Kafka - Message Broker](https://martin.kleppmann.com/papers/kafka-debull15.pdf)	
-		* [ ] [Kafka at LinkedIn](https://engineering.linkedin.com/kafka/running-kafka-scale)
+		* [X] [Kafka at LinkedIn](https://engineering.linkedin.com/kafka/running-kafka-scale)
 		* [ ] [Kafka at Pinterest](https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be)
 		* [ ] [Kafka at Trello](https://tech.trello.com/why-we-chose-kafka/)	
 		* [ ] [Kafka at Salesforce](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
